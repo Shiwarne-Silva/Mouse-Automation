@@ -6,7 +6,7 @@ import threading
 import ctypes
 import sys
 
-# Global variables
+# Global variables.
 running = True
 
 # Function to move the cursor randomly
